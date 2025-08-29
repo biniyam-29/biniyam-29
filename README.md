@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm a backend developer who lives in Ethiopia. I specialize in nestjs frame work. I'm currently looking for remote job opportunities. 
+👋 Hi, I'm Biny  
+
+Backend Developer | NestJS Specialist | Building Scalable and Maintainable Systems  
+
+I design and implement robust backend solutions using **NestJS**, **PostgreSQL**, and modern backend technologies.  
+My focus is on creating **scalable, maintainable, and high-performance applications** that solve real-world problems.  
+I actively contribute to projects that demonstrate clean architecture, effective database design, and practical use of queues, caching, and authentication systems.
+
 
 
 ## 🌐 Socials:
